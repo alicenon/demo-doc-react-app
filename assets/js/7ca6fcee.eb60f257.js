@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkmy_doc_site_ecommerce_react=self.webpackChunkmy_doc_site_ecommerce_react||[]).push([[3779],{3150:e=>{e.exports=JSON.parse('{"label":"facebook","permalink":"/demo-doc-react-app/blog/tags/facebook","allTagsPath":"/demo-doc-react-app/blog/tags","count":1,"unlisted":false}')}}]);
