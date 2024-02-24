@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkmy_doc_site_ecommerce_react=self.webpackChunkmy_doc_site_ecommerce_react||[]).push([[3669],{6833:e=>{e.exports=JSON.parse('{"label":"hello","permalink":"/blog/tags/hello","allTagsPath":"/blog/tags","count":2,"unlisted":false}')}}]);
